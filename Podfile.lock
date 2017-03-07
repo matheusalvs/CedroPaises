@@ -1,0 +1,51 @@
+PODS:
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - DatePickerCell (1.0.5)
+  - FacebookCore (0.2.0):
+    - Bolts (~> 1.8)
+    - FBSDKCoreKit (~> 4.15)
+  - FacebookLogin (0.2.0):
+    - Bolts (~> 1.8)
+    - FacebookCore (~> 0.2)
+    - FBSDKCoreKit (~> 4.15)
+    - FBSDKLoginKit (~> 4.15)
+  - FBSDKCoreKit (4.20.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.20.0):
+    - FBSDKCoreKit
+  - Realm (2.4.3):
+    - Realm/Headers (= 2.4.3)
+  - Realm/Headers (2.4.3)
+  - RealmSwift (2.4.3):
+    - Realm (= 2.4.3)
+  - SwiftSpinner (1.1.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Bolts
+  - DatePickerCell
+  - FacebookLogin
+  - RealmSwift (~> 2.4)
+  - SwiftSpinner
+  - SwiftyJSON (~> 3.1)
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  DatePickerCell: 8cd5d7fc93d195b85a7b2389b0ea4a9017c51f9b
+  FacebookCore: 2cb3f0fbff218e9d3119cec84bae983b232412de
+  FacebookLogin: c9d606504735780a9e3002465a615512e0a691a5
+  FBSDKCoreKit: 2d16979b28fe28c2b95af0d275ad5f9703c6c8de
+  FBSDKLoginKit: a9d9391506c687e2304a590bf9312837fce7f375
+  Realm: e08d60b0048ccccd3949c8c28a92c4db5712d7e9
+  RealmSwift: 30d49739ccb3385d201242736ca4dda56aec9dfc
+  SwiftSpinner: c03815614599b91eea46594bd52ba742849d0414
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 9ca2c3409e9caede80303e79afc02d1209b8a376
+
+COCOAPODS: 1.2.0
