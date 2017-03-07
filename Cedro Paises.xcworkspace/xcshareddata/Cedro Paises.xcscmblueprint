@@ -1,24 +1,24 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4040C1569A89176F46BE78D0C871ABD0E99FEA4F",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "750C41D40297E366CE62D2A5AF8953FBAADEED8A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "61C4B9E3B61282127C102C87B46B8CDE985974AE" : 9223372036854775807,
     "E4BCE3AE6B24E41B9BCE312FF3B0B6CD0B8B8025" : 9223372036854775807,
-    "0DCFF0852789D5A49F67B6C8EA2636735D303748" : 9223372036854775807,
+    "750C41D40297E366CE62D2A5AF8953FBAADEED8A" : 9223372036854775807,
     "A20D666FF4B08EFE53F147818C2D4D17E2242912" : 9223372036854775807,
-    "4040C1569A89176F46BE78D0C871ABD0E99FEA4F" : 9223372036854775807,
-    "A11A2549D5CB40607BCC5ED8DF4A3BF3E6CE30E2" : 9223372036854775807
+    "A11A2549D5CB40607BCC5ED8DF4A3BF3E6CE30E2" : 9223372036854775807,
+    "0DCFF0852789D5A49F67B6C8EA2636735D303748" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7F756B9D-CE83-42C3-9282-B1D2CEE57B95",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "61C4B9E3B61282127C102C87B46B8CDE985974AE" : "FacebookSdk\/facebook-ios-sdk\/Bolts-IOS\/",
     "E4BCE3AE6B24E41B9BCE312FF3B0B6CD0B8B8025" : "FacebookSdk\/facebook-ios-sdk\/vendor\/OCMock\/",
-    "0DCFF0852789D5A49F67B6C8EA2636735D303748" : "FacebookSdk\/facebook-ios-sdk\/Bolts-IOS\/Vendor\/xctoolchain\/",
+    "750C41D40297E366CE62D2A5AF8953FBAADEED8A" : "Cedro%20Paises\/",
     "A20D666FF4B08EFE53F147818C2D4D17E2242912" : "FacebookSdk\/facebook-ios-sdk\/",
-    "4040C1569A89176F46BE78D0C871ABD0E99FEA4F" : "Cedro%20Paises\/",
-    "A11A2549D5CB40607BCC5ED8DF4A3BF3E6CE30E2" : "FacebookSdk\/facebook-ios-sdk\/vendor\/OHHTTPStubs\/"
+    "A11A2549D5CB40607BCC5ED8DF4A3BF3E6CE30E2" : "FacebookSdk\/facebook-ios-sdk\/vendor\/OHHTTPStubs\/",
+    "0DCFF0852789D5A49F67B6C8EA2636735D303748" : "FacebookSdk\/facebook-ios-sdk\/Bolts-IOS\/Vendor\/xctoolchain\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Cedro Paises",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -30,14 +30,14 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0DCFF0852789D5A49F67B6C8EA2636735D303748"
     },
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/matheusalves\/cedropaises.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4040C1569A89176F46BE78D0C871ABD0E99FEA4F"
-    },
-    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BoltsFramework\/Bolts-iOS.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "61C4B9E3B61282127C102C87B46B8CDE985974AE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/matheusalves\/cedropaises.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "750C41D40297E366CE62D2A5AF8953FBAADEED8A"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AliSoftware\/OHHTTPStubs.git",

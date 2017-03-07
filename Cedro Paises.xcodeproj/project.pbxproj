@@ -29,9 +29,9 @@
 		9F99673E1E6DD31D007D05FE /* Delete-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F99673D1E6DD31D007D05FE /* Delete-25.png */; };
 		9F9967431E6DFB25007D05FE /* VisitedCountriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F9967421E6DFB25007D05FE /* VisitedCountriesViewController.swift */; };
 		9F9967451E6DFB39007D05FE /* VisitedCountriesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F9967441E6DFB39007D05FE /* VisitedCountriesTableViewCell.swift */; };
+		9FE107CB1E6EC61800740026 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE107CA1E6EC61800740026 /* ProfileViewController.swift */; };
 		9FEA2A2C1E68DCF300A08A92 /* ImageUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEA2A2B1E68DCF300A08A92 /* ImageUtils.swift */; };
 		9FEA2A2E1E69111200A08A92 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEA2A2D1E69111200A08A92 /* LoginViewController.swift */; };
-		9FEA2A331E69160600A08A92 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEA2A321E69160600A08A92 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,9 +59,9 @@
 		9F99673D1E6DD31D007D05FE /* Delete-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Delete-25.png"; sourceTree = "<group>"; };
 		9F9967421E6DFB25007D05FE /* VisitedCountriesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisitedCountriesViewController.swift; sourceTree = "<group>"; };
 		9F9967441E6DFB39007D05FE /* VisitedCountriesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisitedCountriesTableViewCell.swift; sourceTree = "<group>"; };
+		9FE107CA1E6EC61800740026 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		9FEA2A2B1E68DCF300A08A92 /* ImageUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageUtils.swift; sourceTree = "<group>"; };
 		9FEA2A2D1E69111200A08A92 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		9FEA2A321E69160600A08A92 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProfileViewController.swift; path = ../ProfileViewController.swift; sourceTree = "<group>"; };
 		A55B37386FAB6A1EBFA3916C /* Pods-Cedro Paises.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cedro Paises.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Cedro Paises/Pods-Cedro Paises.debug.xcconfig"; sourceTree = "<group>"; };
 		F4F83A2455522D56572A571F /* Pods-Cedro Paises.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cedro Paises.release.xcconfig"; path = "Pods/Target Support Files/Pods-Cedro Paises/Pods-Cedro Paises.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -145,7 +145,7 @@
 		9F3292EC1E6C99E80011529E /* Profile */ = {
 			isa = PBXGroup;
 			children = (
-				9FEA2A321E69160600A08A92 /* ProfileViewController.swift */,
+				9FE107CA1E6EC61800740026 /* ProfileViewController.swift */,
 				9F3292DD1E6C84760011529E /* ProfileTableViewController.swift */,
 			);
 			name = Profile;
@@ -359,6 +359,7 @@
 				9FEA2A2E1E69111200A08A92 /* LoginViewController.swift in Sources */,
 				9F9967451E6DFB39007D05FE /* VisitedCountriesTableViewCell.swift in Sources */,
 				9F9967431E6DFB25007D05FE /* VisitedCountriesViewController.swift in Sources */,
+				9FE107CB1E6EC61800740026 /* ProfileViewController.swift in Sources */,
 				9F3292F31E6C9AB10011529E /* CountriesTableViewCell.swift in Sources */,
 				9F9967371E6DBB9B007D05FE /* Country.swift in Sources */,
 				9F0BE0B91E6E1234004E9A8E /* CountryTableViewController.swift in Sources */,
@@ -366,7 +367,6 @@
 				9F00CAFD1E68C5FB000511F4 /* AppDelegate.swift in Sources */,
 				9F00CB121E68C81D000511F4 /* RestApiManager.swift in Sources */,
 				9F00CB051E68C5FB000511F4 /* Cedro_Paises.xcdatamodeld in Sources */,
-				9FEA2A331E69160600A08A92 /* ProfileViewController.swift in Sources */,
 				9FEA2A2C1E68DCF300A08A92 /* ImageUtils.swift in Sources */,
 				9F99673A1E6DD082007D05FE /* CountryViewController.swift in Sources */,
 			);
